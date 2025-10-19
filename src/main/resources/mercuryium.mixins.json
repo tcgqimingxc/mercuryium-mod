@@ -1,0 +1,14 @@
+{
+  "required": false,
+  "package": "com.example.mercuryium.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "client": [
+    "SectionRenderDispatcherMixin",
+    "ReloadableResourceManagerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 0
+  }
+}
+
+

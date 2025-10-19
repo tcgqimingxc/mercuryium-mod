@@ -1,0 +1,9 @@
+{
+  "mercuryium.configuration.title": "mercuryium Configs",
+  "mercuryium.configuration.section.mercuryium.client.toml": "mercuryium Client Configs",
+  "mercuryium.configuration.section.mercuryium.client.toml.title": "mercuryium Client Configs",
+
+  "mercuryium.configuration.enableAsyncChunkRebuild": "Enable Async Chunk Rebuild",
+  "mercuryium.configuration.chunkBuilderThreads": "Chunk Builder Threads (0 = Auto)",
+  "mercuryium.configuration.assetReloadParallelism": "Asset Reload Parallelism (0 = Auto)"
+}
